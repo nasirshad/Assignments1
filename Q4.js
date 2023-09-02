@@ -1,0 +1,13 @@
+"use strict";
+var num1 = 110;
+var num2 = 220;
+var num3 = 303;
+var num4 = 405;
+var num5 = 505;
+var num6 = 604;
+var num7 = 780;
+var num8 = 880;
+var num9 = 990;
+var num10 = 100;
+var sum = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10;
+console.log(sum);

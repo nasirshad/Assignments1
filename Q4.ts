@@ -1,0 +1,12 @@
+var num1:number=110;
+var num2:number=220;
+var num3:number=303;
+var num4:number=405;
+var num5:number=505;
+var num6:number=604;
+var num7:number=780;
+var num8:number=880;
+var num9:number=990;
+var num10:number=100;
+var sum:number=num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;
+console.log(sum);
